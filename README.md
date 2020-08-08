@@ -24,7 +24,7 @@ npm i react-native-safe-area-context
 you will see in your package.json 
 
 ```json 
-"@react-native-community/masked-view": "0.1.10",
+@react-native-community/masked-view": "0.1.10",
     "expo": "~38.0.8",
     "expo-status-bar": "^1.0.2",
     "react": "~16.11.0",
